@@ -42,5 +42,5 @@ book_appointment(
     "Dr. Jane Roe",
     "2024-07-20 11:30 AM"
 )
-
 display_appointments()
+
